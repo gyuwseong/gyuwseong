@@ -5,7 +5,5 @@
 <br>
 
  ✍🏻 I’m currently learning **Python**, **Django**, **Flask**  
- <br>
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=95912gw&count_private=true&show_icons=true&theme=vue&include_all_commits&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
