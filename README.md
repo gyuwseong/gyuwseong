@@ -1,6 +1,6 @@
 ## Hi, I'm Gyuwon. I'm a Backend Developer ☀️
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gw1231seong@gmail.com)](mailto:gw1231seong@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Dev%20blog-black?style=flat-square&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Dev%20blog-black?style=flat-square&link=https://95912.tistory.com//)](https://95912.tistory.com/)
 
 <br>
 
